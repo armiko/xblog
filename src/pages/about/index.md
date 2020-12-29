@@ -4,10 +4,9 @@ title: About Page
 ---
 # Hi,
 
-Call me **Zakiy**, I'm a **UX Engineer**
+Call me **Miko**, I'm a **translator (English/Japanese)**
 
-Sometimes I [design](https://dribbble.com/ahmadzakiy) user experience, sometimes I put that in the [code](https://github.com/ahmadzakiy)
-
-If you want me doing some freelance or just want to invite for a cup of coffee, hit me up at **in.zakiy@gmail.com**
+You can contact me on [facebook](https://www.facebook.com/armiko.id)
+If you want me doing some freelance or just want to invite for a cup of coffee, hit me up at **contact@armiko.my.id**
 
 Thank You!
