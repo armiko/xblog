@@ -1,6 +1,5 @@
 ---
 templateKey: Header
-websiteTitle: aBlog
+websiteTitle: xBlog
 aboutTitle: About
-projectsTitle: Projects
 ---
