@@ -1,6 +1,6 @@
 ---
 templateKey: Bio
-name: Ahmad Zakiy
-description: I write code for a living
+name: Armiko SMD
+description: Weebs
 cover: /img/avatar.jpg
 ---
